@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-31T14:00:17 IST" name="Suite" finished-at="2023-01-31T14:00:35 IST" duration-ms="17903">
+    <groups>
+    </groups>
+    <test started-at="2023-01-31T14:00:17 IST" name="Test" finished-at="2023-01-31T14:00:35 IST" duration-ms="17903">
+      <class name="TestCases.LoginInDemoCart">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.LoginInDemoCart@402bba4f]" started-at="2023-01-31T14:00:17 IST" name="LaunchBrowser" finished-at="2023-01-31T14:00:23 IST" duration-ms="6538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="UserLogin()[pri:0, instance:TestCases.LoginInDemoCart@402bba4f]" started-at="2023-01-31T14:00:23 IST" name="UserLogin" finished-at="2023-01-31T14:00:28 IST" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.LoginInDemoCart@402bba4f]" started-at="2023-01-31T14:00:28 IST" name="TearDown" finished-at="2023-01-31T14:00:28 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.LoginInDemoCart -->
+      <class name="TestCases.CreatingAccount">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.CreatingAccount@79924b]" started-at="2023-01-31T14:00:28 IST" name="LaunchBrowser" finished-at="2023-01-31T14:00:32 IST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="AccountCreate()[pri:0, instance:TestCases.CreatingAccount@79924b]" started-at="2023-01-31T14:00:32 IST" name="AccountCreate" finished-at="2023-01-31T14:00:34 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountCreate -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.CreatingAccount@79924b]" started-at="2023-01-31T14:00:34 IST" name="TearDown" finished-at="2023-01-31T14:00:35 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.CreatingAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
