@@ -39,6 +39,7 @@ public class BaseClass {
 					System.out.println("please select valid browser");
 				}
 				return driver;
+				// this line is for demo purpose
 
 			}
 			@BeforeMethod
